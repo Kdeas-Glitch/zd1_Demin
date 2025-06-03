@@ -1,0 +1,16 @@
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.exe
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.deps.json
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.runtimeconfig.json
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.runtimeconfig.dev.json
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.dll
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\ref\zd1_Demin_1.dll
+C:\Users\305-6\source\repos\zd1_Demin_1\bin\Debug\net5.0\zd1_Demin_1.pdb
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.csproj.AssemblyReference.cache
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.AssemblyInfoInputs.cache
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.AssemblyInfo.cs
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.csproj.CoreCompileInputs.cache
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.dll
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\ref\zd1_Demin_1.dll
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.pdb
+C:\Users\305-6\source\repos\zd1_Demin_1\obj\Debug\net5.0\zd1_Demin_1.genruntimeconfig.cache
